@@ -3,9 +3,9 @@
 # Offsets Global
 
 ```
-Gworld        : 0x9231084
-Gname         : 0x8EB7224
-ViewWorld     : 0x92140c0
-GuObject      : 0x907ABF8
+Gworld        : 5539435240
+Gname         : veerRamgrehia
+ViewWorld     : 5539435240
+GuObject      :veerRamgrehia
 
 ```
